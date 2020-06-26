@@ -34,5 +34,3 @@ def find_the_cheese(food_array)
     return nil
   end
 end
-
-# cheese_types = ["cheddar", "gouda", "camembert"]
