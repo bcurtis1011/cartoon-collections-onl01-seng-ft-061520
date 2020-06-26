@@ -19,7 +19,6 @@ def long_planeteer_calls(calls_array)
       return false
     else
       return true
-      binding.pry
     end
   end
 end
