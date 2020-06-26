@@ -32,6 +32,7 @@ def find_the_cheese(food_array)
     return "camembert"
   else
     return nil
+  end
 end
 
 # cheese_types = ["cheddar", "gouda", "camembert"]
